@@ -1,0 +1,9 @@
+package org.example.Dao;
+
+public class DaoImpl implements IDao{
+    @Override
+    public double getData() {
+        System.out.println("============== version basse de données =================");
+        return 20;
+    }
+}
