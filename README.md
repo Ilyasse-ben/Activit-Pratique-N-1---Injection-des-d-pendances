@@ -17,8 +17,8 @@ git clone https://github.com/Ilyasse-ben/Activit-Pratique-N-1---Injection-des-d-
 ```
 src > main > java > org.example > client puis clique sur run 
 ## ⚙ Architecteur 
-![Diagramme de l'architecture](Images/architecture.png)
+![Diagramme de l'architecture](Images/img.png)
 
 ## Résulta 
-![Capture de l'application](Images/resultat.png)
+![Capture de l'application](Images/img_2.png))
 
